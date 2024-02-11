@@ -48,7 +48,7 @@ case $choice in
         pkg install nodejs-lts -y
         clear
         echo -e "\e[1;32mDone! Download the required package...\e[0m"
-        install jimp --no-bin-links
+        npm install jimp --no-bin-links
         clear
         echo -e "\e[1;32mSetup successful!\e[0m"
         clear
