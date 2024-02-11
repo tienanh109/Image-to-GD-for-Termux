@@ -1,7 +1,7 @@
 # Image-to-GD-for-Termux
 
 ## Introduction
-# Version V0.0.1
+*Version V0.0.1*
 
 A simple tool for Termux!
 
