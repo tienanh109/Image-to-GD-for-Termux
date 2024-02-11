@@ -41,11 +41,11 @@ A simple tool for Termux!
 
 Well and you have finished downloading the tool! 
 
-#Linux
+# Linux
 
 Similar to the above method
 
-##How to use?
+## How to use?
  1. First you need to run it with the command: 
   ```bash
   bash Main.sh
@@ -83,7 +83,7 @@ Similar to the above method
 It is done! Your data has been saved. You just need to load it into the game and play!
 
 ========================
-#Credits
+## Credits
 - Thanks to GDColon for the nodejs code
 - And bash code by tienanh109
 - Use JavaScript and Bash languages
