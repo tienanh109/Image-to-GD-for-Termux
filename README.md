@@ -4,7 +4,7 @@
 
 A simple tool for Termux!
 
-- Written in **JavaScript** (NodeJS ) and **Bash**.
+- Written in **JavaScript** (NodeJS) and **Bash**.
 - Utilizes the **Jimp library** for NodeJS.
 - Designed for **Termux and Linux**.
 - Bash file by **tienanh109**.
