@@ -43,7 +43,11 @@ A simple tool for Termux!
 Well and you have finished downloading the tool! 
 
 # Linux
-
+### Required packages:
+- NodeJs
+- Bash
+- Unzip
+- Wget
 Similar to the above method
 
 ## How to use?
