@@ -20,7 +20,7 @@ A simple tool for Termux!
 2. After downloading Termux from Github, grant storage access and execute the following commands:
   - First download the unzip package:
    ```bash
-        pkg install unzip -y
+   pkg install unzip -y
    ```
 3. After, download the code from github and execute the command:
   ```bash
