@@ -84,6 +84,6 @@ It is done! Your data has been saved. You just need to load it into the game and
 
 ========================
 ## Credits
-- Thanks to GDColon for the nodejs code
+- Thanks to [GDColon](https://github.com/GDColon) for the nodejs code
 - And bash code by tienanh109
 - Use JavaScript and Bash languages
