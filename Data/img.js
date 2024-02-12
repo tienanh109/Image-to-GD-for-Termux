@@ -12,7 +12,7 @@ if (!file) return console.log("Could not find any image files! Drag a small PNG 
 
 let data = require('./config-leveldat.json')
 let tiles = {1: 917 , 2: 916, 4: 211, 8: "211,32,2", 16: "211,32,4"}
-let gdLevels = "./Save/CCLocalLevels.dat"
+let gdLevels = "../Save/CCLocalLevels.dat"
 
 Jimp.read("./" + file).then(async img => {
 
