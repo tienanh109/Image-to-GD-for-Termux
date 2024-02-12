@@ -9,7 +9,7 @@ A simple tool for Termux!
 - Utilizes the **Jimp library** for NodeJS.
 - Designed for **Termux and Linux**.
 - Bash file by **tienanh109**.
-- NodeJs by **GDColon**.
+- NodeJs by **[GDColon](https://github.com/gdcolon/)**.
 
 ## How to Install
 
@@ -91,6 +91,7 @@ It is done! Your data has been saved. You just need to load it into the game and
 ## Change Log
 - Version: 0.0.2
 - Fix error of not finding data during conversion
+- fix GD Le data not found
 - Fix bug
 ========================
 ## Credits
