@@ -33,7 +33,7 @@ A simple tool for Termux!
  ```
 5. Then go to that folder
  ```bash
- cd Image-to-GD-for-Termux-main
+ cd Image-to-GD-for-Termux-0.0.2
  ```
 6. Run the tool
  ```bash
