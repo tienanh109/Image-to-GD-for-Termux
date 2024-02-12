@@ -25,11 +25,11 @@ A simple tool for Termux!
    ```
 3. After, download the code from github and execute the command:
   ```bash
-  wget https://github.com/BinZFAKE9999/Image-to-GD-for-Termux/archive/refs/heads/main.zip
+  wget https://github.com/BinZFAKE9999/Image-to-GD-for-Termux/archive/refs/heads/v0.0.2.zip
   ```
 4. And then unzip it:
  ```bash
- unzip main.zip
+ unzip v0.0.2.zip
  ```
 5. Then go to that folder
  ```bash
