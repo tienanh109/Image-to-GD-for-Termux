@@ -13,7 +13,7 @@ A simple tool for Termux!
 
 Instructions for the latest version are [here](https://github.com/BinZFAKE9999/Image-to-GD-for-Termux/tree/v0.0.2)
 
-========================
+
 ## Credits
 - Thanks to [GDColon](https://github.com/GDColon) for the nodejs code
 - And bash code by tienanh109
