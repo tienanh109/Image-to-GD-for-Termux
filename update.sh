@@ -12,7 +12,7 @@ response=$(curl -s $remote_raw)
 # Lấy thông tin từ raw response
 latest_ver=$(echo "$response" | sed -n '1p')
 latest_file=$(echo "$response" | sed -n '2p')
-
+latest_file_name=$(echo "$response" | sed -n '3p')
 # So sánh phiên bản
 if [ "$latest_ver" == "$ver" ]; then
   echo "There is no latest version yet! Please check later!"
@@ -40,7 +40,7 @@ clear
 echo "Updating to version $latest_ver..."
 cd ..
 wget "$latest_file"
-unzip "$latest_file"
+unzip "$latest_file_name"
 cd "$(echo "$response" | sed -n '3p')"
-echo "Cập nhật thành công! Vui lòng bấm Cirl + C và nhập command bash Main.sh để khởi động lại."
+echo "Update successful! Please press Cirl + C and enter command bash Main.sh to restart."
 exit 0
