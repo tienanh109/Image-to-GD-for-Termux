@@ -41,6 +41,6 @@ echo "Updating to version $latest_ver..."
 cd ..
 wget "$latest_file"
 unzip "$latest_file_name"
-cd "$(echo "$response" | sed -n '3p')"
+cd "$(echo "$response" | sed -n '4p')"
 echo "Update successful! Please press Cirl + C and enter command bash Main.sh to restart."
 exit 0
