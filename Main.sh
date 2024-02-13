@@ -13,10 +13,11 @@ echo -e "\e[1;33mNOTES: Move photos into this folder to convert, 500 =< pixels r
 echo ""
 echo -e "1 = \e[1;33mSetup\e[0m"
 echo -e "2 = \e[1;33mRun\e[0m"
+echo -e "3 = \e[1;33mCheck for update [Beta]\e[0m"
 echo ""
 echo "==================="
 echo "Name: IMG to GD Converter"
-echo "Version: V0.0.2_Alpha"
+echo "Version: V0.0.3_Beta"
 echo "By tienanh109 & Nodejs code by GDColon"
 echo "==================="
 echo ""
@@ -67,6 +68,11 @@ case $choice in
         echo -e "\e[1;32mDone!\e[0m"
         sleep 3
         clear
+        ;;
+
+   3)
+        clear
+        bash update.sh
         ;;
 
     *)
