@@ -1,4 +1,4 @@
-#!/bin/bash
+ #!/bin/bash
 clear
 # Đặt biến phiên bản hiện tại
 echo "Checking for the latest version...."
@@ -42,5 +42,5 @@ cd ..
 wget "$latest_file"
 unzip "$latest_file_name"
 cd "$(echo "$response" | sed -n '4p')"
-echo "Update successful! Please press Cirl + C and enter command bash Main.sh to restart."
+echo "Update successful! Please press Cirl + C and restart tool with latest version to restart."
 exit 0
