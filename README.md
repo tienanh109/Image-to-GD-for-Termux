@@ -48,6 +48,7 @@ Well and you have finished downloading the tool!
 - Bash
 - Unzip
 - Wget
+- Curl
 Similar to the above method
 
 ## How to use?
