@@ -1,7 +1,7 @@
 # Image-to-GD-for-Termux
 
 ## Introduction
-*Version V0.0.2*
+*Version V0.0.3 Beta*
 
 A simple tool for Termux!
 
@@ -25,15 +25,15 @@ A simple tool for Termux!
    ```
 3. After, download the code from github and execute the command:
   ```bash
-  wget https://github.com/BinZFAKE9999/Image-to-GD-for-Termux/archive/refs/heads/v0.0.2.zip
+  wget https://github.com/BinZFAKE9999/Image-to-GD-for-Termux/archive/refs/heads/0.0.3_beta.zip
   ```
 4. And then unzip it:
  ```bash
- unzip v0.0.2.zip
+ unzip 0.0.3_beta.zip
  ```
 5. Then go to that folder
  ```bash
- cd Image-to-GD-for-Termux-0.0.2
+ cd Image-to-GD-for-Termux-0.0.3_beta
  ```
 6. Run the tool
  ```bash
@@ -89,10 +89,8 @@ It is done! Your data has been saved. You just need to load it into the game and
 
 ========================
 ## Change Log
-- Version: 0.0.2
-- Fix error of not finding data during conversion
-- fix GD Le data not found
-- Fix bug
+- Version: 0.0.3 Beta
+- Add new features
 ========================
 ## Credits
 - Thanks to [GDColon](https://github.com/GDColon) for the nodejs code
