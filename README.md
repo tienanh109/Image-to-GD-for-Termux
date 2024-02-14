@@ -19,9 +19,9 @@ A simple tool for Termux!
    Download Termux from [Repo Termux](https://github.com/termux/termux-app/releases).
 
 2. After downloading Termux from Github, grant storage access and execute the following commands:
-  - First download the unzip package:
+  - First download the packages:
    ```bash
-   pkg install unzip -y
+   pkg install unzip -y && pkg install curl -y && pkg install wget -y
    ```
 3. After, download the code from github and execute the command:
   ```bash
