@@ -90,6 +90,7 @@ It is done! Your data has been saved. You just need to load it into the game and
 ========================
 ## Change Log
 - Version: 0.0.2
+- [Try beta version](https://github.com/BinZFAKE9999/Image-to-GD-for-Termux/tree/0.0.3_beta)
 - Fix error of not finding data during conversion
 - fix GD lvl data not found
 - Fix bug
